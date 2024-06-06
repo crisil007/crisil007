@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+.context{
+    border:solid black;
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding:20px 10px 20px 10px;
+    
+  
+    
+    
+}
+.mac{
+    width:15px;
+    height:auto;
+}
+.navi{
+    margin:20px;
+    
+}
+.moc{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
