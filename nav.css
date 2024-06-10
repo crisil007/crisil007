@@ -44,8 +44,10 @@
     color:white;
     margin-top:20px;
     padding:50px;
+    margin-bottom: 5px;
    
 }
+
 .buy{
     border-color: rgb(0, 174, 255);
     color:rgb(0, 153, 255);
@@ -56,7 +58,30 @@
     padding:8px;
     
 }
-.iimg{
-    margin-left: 100px;
 
+.img-container {
+    text-align: center;
 }
+
+.img-sub-container {
+    text-align: center;
+}
+
+.iconimg {
+    display: inline-block;
+    width: 40.406rem;
+    height: 36.25rem;
+    text-align: center;
+    background : url('./apple.jpeg');
+}
+
+
+/* .img-icon {
+    width: 100%;
+    height: 100%;
+
+
+} */
+
+
+
