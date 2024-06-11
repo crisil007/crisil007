@@ -71,17 +71,18 @@
     display: inline-block;
     width: 40.406rem;
     height: 36.25rem;
-    text-align: center;
+    
     background : url('./apple.jpeg');
+    background-repeat: no-repeat;
 }
 
 
-/* .img-icon {
+.img-icon {
     width: 100%;
     height: 100%;
 
 
-} */
+} 
 
 
 
