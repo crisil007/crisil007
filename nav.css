@@ -61,28 +61,42 @@
 
 .img-container {
     text-align: center;
+    
 }
 
-.img-sub-container {
+/* .img-sub-container {
     text-align: center;
-}
+} */
 
 .iconimg {
-    display: inline-block;
+    display: inline-block; 
+
     width: 40.406rem;
     height: 36.25rem;
     
-    background : url('./apple.jpeg');
-    background-repeat: no-repeat;
 }
+    
+    /* background : url('./apple.jpeg');
+    background-repeat: no-repeat; */
+
 
 
 .img-icon {
     width: 100%;
     height: 100%;
+    margin:30px;
 
 
 } 
+.img-sub-container{
+    /* display:flex; */
+    text-align: center;
+}
+.dfd{
+    position:absolute;
+   
+    margin-left:270px;
+   margin-top:30px
 
-
+}
 
