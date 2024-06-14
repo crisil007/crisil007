@@ -22,6 +22,10 @@
     margin:20px;
     
 }
+a{
+    text-decoration: none;
+    color:white;
+}
 .moc{
     text-align: center;
     background-color: black;
