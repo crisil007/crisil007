@@ -116,4 +116,25 @@ width:49vw;
     background-repeat: no-repeat;
     background-size: cover;
 }   
-    
+    .contain-1{
+        display:flex;
+       
+      width:10vw;
+        
+    }
+    .section-2{
+        display: flex;
+        margin:13px;
+       
+        height:57vh;
+    }
+    .paragraph{
+        min-width: 50vw;
+        min-height: 50vh;
+        display: block;
+        background-color: wheat;
+    }
+    .para-1{
+        text-align: center;
+        width: 20px;
+    }
