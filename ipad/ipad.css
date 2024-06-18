@@ -7,11 +7,7 @@
     background-color: black;
     color: white;
     text-align:center;
-    padding:20px 10px 20px 10px;
-    
-  
-    
-    
+    padding:20px 10px 20px 10px; 
 }
 .mac{
     width:15px;
@@ -28,27 +24,26 @@ a{
 }
 .nav3{
     display: flex;
+    justify-content: space-between;
+    padding: 50px;
+text-align: center;
 }
 .nav-3{
-    position: relative;
-    top:60px;
-    left: 50px;
-    font-size: 40px;
-
+    font-size: 80px;
 }
+
 .nav-4{
-    position: relative;
-    left:45rem;
-    top:60px;
-    font-size: 24px;
+    font-size: 30px;
 }
 .img-1{
-position:relative;
+ position:relative;
 
-top:9rem;
-left:8rem;
+top:2rem;
+left:4rem;
 height:40px;
 object-fit: cover;
+text-align: center;
+justify-content: center;
 }
 .nav-5{
    position: relative;
@@ -63,7 +58,7 @@ object-fit: cover;
 }
 .img{
     margin:5px;
-    height:70vh;
+    height:75vh;
     width:38vw;
 }
 .img-2{
@@ -90,4 +85,8 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    border-radius: 20px;
+}
+.img-2-2{
+    padding-left: 50px;
 }

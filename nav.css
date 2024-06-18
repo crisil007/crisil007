@@ -114,6 +114,7 @@ width:49vw;
         display:flex;
        
       width:10vw;
+
         
     }
     .section-2{
@@ -130,3 +131,18 @@ width:49vw;
     .but-1{
         font-size: 15px;
     }
+    .paragraph{
+        background-color: whitesmoke;
+    }
+    .para-1{
+        padding:20px 10rem 20px 10rem;
+        line-height: 40px;
+        margin:10px 20px 10px 20px;
+    }
+
+
+
+
+
+
+
