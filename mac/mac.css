@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding:0;
+}
+.context{
+    border:solid black;
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding:20px 10px 20px 10px;
+    
+  
+    
+    
+}
+.mac{
+    width:15px;
+    height:auto;
+
+}
+.navi{
+    margin:20px;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.mongo{
+    background-color: whitesmoke;
+}
+.mongo1{
+    font-size: 30px;
+    margin:40px;
+    
+}
+.img1{
+    width:100vw;
+    height:100vh;
+    
+}
+.img2{
+font-size: 30px;
+    background-image: url(appleeducation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   min-height:100vh;
+    color: white;
+    text-align: center;
+}
+.but{
+    background-color: blue;
+    margin-top:20px;
+    background-color: rgb(0, 132, 255);
+    border-radius:40px;
+    font-size:20px;
+    color:white;
+    padding:10px;
+}
+.contain{
+    min-width: 40vm;
+       min-height: 50vh;
+       
+   }
+   .img{  
+   
+   margin:5px;
+   width:27vw;
+   
+   }
+   .img-1{
+       display: flex;
+        height:68vh; 
+   }
+   .img-2{
+       text-align: center;
+       background-image: url(mac1.jpg);
+       background-repeat: no-repeat;
+   
+       background-size:cover;
+       color: white;
+   }
+   .img-3{
+       text-align: center;
+       background-image: url(mac2.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       color: white;
+   }
+   .img-4{
+       text-align: center;
+       background-image: url(mac3.jpg);
+       background-repeat: no-repeat;
+       background-size:cover;
+   
+   }
+   .img-5{
+    text-align: center;
+    background-image: url(vision.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
